@@ -1,0 +1,6 @@
+plugin:
+    name: 'obuchmann.phone::lang.plugin.name'
+    description: 'obuchmann.phone::lang.plugin.description'
+    author: 'Oliver Buchmann'
+    icon: oc-icon-phone
+    homepage: 'https://github.com/obuchmann/oc-phone-plugin'

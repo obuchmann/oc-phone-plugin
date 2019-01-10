@@ -1,0 +1,21 @@
+{
+    "name": "obuchmann/phone",
+    "description": "Provides Laravel Phone in OctoberCMS",
+    "type": "october-plugin",
+    "extra": {
+        "installer-name": "phone"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/obuchmann/oc-phone-plugin",
+    "keywords": ["october", "octobercms", "phone", "propaganistas", "laravel-phone"],
+    "authors": [
+        {
+            "name": "Oliver Buchmann",
+            "email": "o.buch91@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0",
+        "propaganistas/laravel-phone": "^4.0"
+    }
+}
